@@ -17,13 +17,19 @@ We are tasked to automate a web browser to visit different websites to extract d
 + [Mars Hemisphere Images](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
 
-## Website Results
+## Website Result
 ![Mars Website](https://user-images.githubusercontent.com/29410712/191409661-e22bb5d4-9917-4e87-a4fc-49d69464a06a.png)
 
----
----
+## Website Properties
 
-### Full Images of Mars Hemisphere
-One can access the images of the Mars hemispheres by clicking on each individual thumbnail. This will open a new web browser with the full resolution picture of the Mars hemispheres. This makes it easier to access photos linked with other websites.
+### Full Resolution Images
+One can access the images of the Mars hemispheres by clicking on each individual thumbnail. This will open a new web browser with the full resolution picture of the Mars hemispheres. This makes it easier to access photos linked with other websites. By hovering over the Mars hemispheres, the background color changes to orange to illustrate which hemisphere we are selecting.
 
 ![Mars Hemisphere](https://user-images.githubusercontent.com/29410712/191409803-c087dbb2-242d-46fb-82d5-33aa0a7d7421.png)
+
+---
+
+### Mobile Device Compatibility 
+
+<img src="https://user-images.githubusercontent.com/29410712/191412809-9e8d44ad-933c-4259-bd94-df69d165dd79.png"  width=50% height=50%>
+
