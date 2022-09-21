@@ -18,4 +18,12 @@ We are tasked to automate a web browser to visit different websites to extract d
 
 
 ## Website Results
-![Mars Website](https://user-images.githubusercontent.com/29410712/191167580-d0d341a0-31f6-4688-960b-40074a2b02ff.png)
+![Mars Website](https://user-images.githubusercontent.com/29410712/191409661-e22bb5d4-9917-4e87-a4fc-49d69464a06a.png)
+
+---
+---
+
+### Full Images of Mars Hemisphere
+One can access the images of the Mars hemispheres by clicking on each individual thumbnail. This will open a new web browser with the full resolution picture of the Mars hemispheres. This makes it easier to access photos linked with other websites.
+
+![Mars Hemisphere](https://user-images.githubusercontent.com/29410712/191409803-c087dbb2-242d-46fb-82d5-33aa0a7d7421.png)
