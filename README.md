@@ -23,7 +23,7 @@ We are tasked to automate a web browser to visit different websites to extract d
 ## Website Properties
 
 ### Full Resolution Images
-One can access the images of the Mars hemispheres by clicking on each individual thumbnail. This will open a new web browser with the full resolution picture of the Mars hemispheres. This makes it easier to access photos linked with other websites. By hovering over the Mars hemispheres, the background color changes to orange to illustrate which hemisphere we are selecting.
+One can access the images of the Mars hemispheres by clicking on each individual thumbnail. This will open a new web browser with a full-resolution picture of the Mars hemispheres. This makes it easier to access photos linked with other websites. By hovering over the Mars hemispheres, the background color changes to orange to illustrate which hemisphere we are selecting.
 
 ![Mars Hemisphere](https://user-images.githubusercontent.com/29410712/191409803-c087dbb2-242d-46fb-82d5-33aa0a7d7421.png)
 
