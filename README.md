@@ -6,8 +6,9 @@
 We are tasked to automate a web browser to visit different websites to extract data about Mars. Web scraping is a method of gaining data from different sources quickly instead of visiting each website yourself and manually extracting data. The web scraping process is automated using a programming script. Web scraping is a method used by organizations worldwide to extract online data for analysis. We will then store it in a NoSQL database, and then render the data in a web application created with Flask. This will centralize the data into one page to showcase information about the red planet. 
 
 ## Resources
-+ Analysis Software: Python 3.10, Jupyter Notebook 6.4.12
-+ Scraping Software: VS Code 1.71.0, MongoDB
++ Analysis Software: `Jupyter Notebook 6.4.12`, `VS Code 1.71.0`
++ Programming Languages: `Python 3.10`
++ Database: `MongoDB`
 + Dependencies: Pandas, Splinter, BeautifulSoup
 
 ## Scraping Source
